@@ -24,3 +24,4 @@ public class MyUserDetailService implements UserDetailsService {
 		return new UserDetailsImplement(user);	}
 	
 }
+
